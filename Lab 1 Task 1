@@ -38,7 +38,7 @@ cout<<("Mul S and P")<<Mul<<endl;
 Div = S/P;
 cout<<("Div S and P")<<Div<<endl;
 
-cout << endl << "Memory long: ";
+cout << endl << "Memory log: ";
     cout << endl << &a << endl << &b << endl << &S << endl << &P << endl << &Sum << endl << &Dif << endl << &Div << endl << &Mul << endl << &Div<<endl;
 
     return 0;
